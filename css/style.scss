@@ -177,6 +177,7 @@ hr.resume-divider {
   color:#000000;
 } 
 .position{
+  color: #000;
   font-weight: 900;
 }
 .company-year{
@@ -306,8 +307,16 @@ p.header__tagline {
   border-radius: 100px;
   width:25%;
 }
-// @media only screen (min-width: 736px) {
-//    .project-count { 
-//      display: inline-block;
-//    } 
-// }
+
+
+
+@media only screen and (min-width: 200px) and (max-width: 767px)  {
+   .project-count {
+      flex-direction:column;
+    }
+    .project-count>div {
+    display: flex;
+    flex: none;
+    }
+
+  }
