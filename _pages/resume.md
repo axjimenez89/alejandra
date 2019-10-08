@@ -9,7 +9,7 @@ description: alejandra's personal portfolio
 <div class="skills-set">
 Languages: &nbsp;Ruby, JavaScript, HTML5/CSS, Sass, PHP, Liquid
 <br>
-Development: &nbsp;Ruby on Rails, jQuery, Node.JS
+Development: &nbsp;Ruby on Rails, jQuery, Node.JS, React.JS
 <br>
 Frameworks:&nbsp; Express, Sinatra
 <br>
