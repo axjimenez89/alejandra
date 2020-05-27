@@ -16,8 +16,8 @@ menu_settings:
       url: "/projects/"
     - title: "Resume"
       url: "/resume"
-    # - title: "Blog"
-    #   url: "/"
+    - title: "blog"
+      url: "/blog"
     - title: "Contact"
       url: "/contact"
 

@@ -74,10 +74,6 @@ Database:&nbsp;MySQL, Salesforce
 &#8226;Managed cases with LA Department of Health Services to ensure that 300+ tenants were successfully housed and retained their housing overtime
 <br>
 &#8226;Primary liaison between LA Department Health Services and internal team
-
-<br>
-&#8226;Primary liaison between LA Department Health Services and internal team
-
 <br>
 &#8226;Managed 7 housing coordinators; provided training, support with processes, and monitored team morale
 
