@@ -96,9 +96,11 @@ Database:&nbsp;MySQL, Salesforce
 
 <hr class="resume-divider">
 <div class="edu-tails">
+
 University of California, Santa Cruz
-<br class="space">		   
+<br class="space">   
 Bachelor of Arts in Politics and Latin American and Latino Studies  
-<br class="space">	
- September 2007 – December 2011 
+<br class="space">
+September 2007 – December 2011
+
 </div>
