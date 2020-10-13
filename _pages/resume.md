@@ -96,13 +96,6 @@ Database:&nbsp;MySQL, Salesforce
 
 <hr class="resume-divider">
 <div class="edu-tails">
-General Assembly 
-<br class="space">	
-Web Development Immersive   
-<br class="space">	
-July 2016 - September 2016 
-<br>
-<br>
 University of California, Santa Cruz
 <br class="space">		   
 Bachelor of Arts in Politics and Latin American and Latino Studies  
