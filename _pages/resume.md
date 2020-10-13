@@ -34,7 +34,6 @@ Database:&nbsp;MySQL, Salesforce
 <br>
 &#8226; Summer 2020, designed and created an ecommerce site using Liquid, HTML, CSS, JS
 <br>
-<br>
 &#8226; Past projects have entailed updating/maintaining non profit sites
 <br>
 </div>
