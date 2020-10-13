@@ -25,6 +25,20 @@ Database:&nbsp;MySQL, Salesforce
 
 <h4 class= "section-title"> programming experience </h4>
 <hr class="resume-divider">
+<div class="title-pos freelance">
+<span class="position">Front End Developer</span>,<span class="company-year"> Consultant, New York, NY </span> &nbsp; January 2017 – Present
+  </div>
+  <div class="job-details general">
+&#8226;Summer 2020, Front End Web Developer Instructor for United We Lead Foundation, taught high school students basic Web Development skills
+(HTML, CSS, JS)
+<br>
+&#8226; Summer 2020, designed and created an ecommerce site using Liquid, HTML, CSS, JS
+<br>
+<br>
+&#8226; Past projects have entailed updating/maintaining non profit sites
+<br>
+</div>
+
 <div class="title-pos">
 <span class="position">Associate Instructor</span>,<span class="company-year"> General Assembly, New York, NY </span> &nbsp; March 2019 – Present
   </div>
