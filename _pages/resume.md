@@ -29,7 +29,7 @@ Database:&nbsp;MySQL, Salesforce
 <span class="position">Front End Developer</span>,<span class="company-year"> Consultant, New York, NY </span> &nbsp; January 2017 – Present
   </div>
   <div class="job-details general">
-&#8226;Summer 2020, Front End Web Developer Instructor for United We Lead Foundation, taught high school students basic Web Development skills
+&#8226; Summer 2020, Front End Web Developer Instructor for United We Lead Foundation, taught high school students basic Web Development skills
 (HTML, CSS, JS)
 <br>
 &#8226; Summer 2020, designed and created an ecommerce site using Liquid, HTML, CSS, JS
@@ -43,7 +43,7 @@ Database:&nbsp;MySQL, Salesforce
 <span class="position">Associate Instructor</span>,<span class="company-year"> General Assembly, New York, NY </span> &nbsp; March 2019 – Present
   </div>
   <div class="job-details general">
-&#8226;Part-time instructor assistant to the Front-End Web Development course that include 18-21 students
+&#8226; Part-time instructor assistant to the Front-End Web Development course that include 18-21 students
 <br>
 &#8226; Provide feedback on weekly assignments and think creatively to explain technologies taught in the class (i.e. JavaScript, JQuery, HTML5/CSS, GitHub)
 <br>
@@ -52,16 +52,16 @@ Database:&nbsp;MySQL, Salesforce
   <span class="position">Front-End Developer</span>,<span class="company-year">  Sesame Workshop, New York, NY </span>  &nbsp;	     June 2018 – July 2019
   </div>
   <div class="job-details">
-&#8226;Create games to teach children ages 4-12 years old how to draw and read
+&#8226; Create games to teach children ages 4-12 years old how to draw and read
 
 <br>
-&#8226;Oversee regular updates on domestic websites of Sesame Workshop, which reach a total of ~70,000 users on average per month
+&#8226; Oversee regular updates on domestic websites of Sesame Workshop, which reach a total of ~70,000 users on average per month
 
 <br>
-&#8226;Collaborate heavily with stakeholders (e.g. tech, vendors, producers) on site updates and creating education tools. As the only front-end developer on site, I provide technical insight to ensure smooth project delivery.
+&#8226; Collaborate heavily with stakeholders (e.g. tech, vendors, producers) on site updates and creating education tools. As the only front-end developer on site, I provide technical insight to ensure smooth project delivery.
 
 <br>
-&#8226;Support Google Analytics Coordinator by creating custom JavaScript tags for tracking user behavior across domestic and international sites
+&#8226; Support Google Analytics Coordinator by creating custom JavaScript tags for tracking user behavior across domestic and international sites
 
   </div>
 
@@ -69,12 +69,12 @@ Database:&nbsp;MySQL, Salesforce
 <span class="position">Web Developer</span>,<span class="company-year">  Cogent, New York, NY </span>   &nbsp;	     March 2017 – June 2017
 </div>
 <div class="job-details">
-&#8226;Provide support with managing and updating high-profile celebrity and brands sites
+&#8226; Provide support with managing and updating high-profile celebrity and brands sites
 
 <br>
-&#8226;Lead developer on a professional athlete’s sites and creating responsive newsletters emails (HTML emails)
+&#8226; Lead developer on a professional athlete’s sites and creating responsive newsletters emails (HTML emails)
 <br>
-&#8226;Collaborated closely with a team of four developers and Creative team in order to create wireframes for upcoming music festival sites
+&#8226; Collaborated closely with a team of four developers and Creative team in order to create wireframes for upcoming music festival sites
 </div>
 
 <h4 class= "section-title"> additional work experience </h4>
@@ -83,13 +83,13 @@ Database:&nbsp;MySQL, Salesforce
 <span class="position">Program Supervisor</span>,<span class="company-year">  Brilliant Corners, Los Angeles, CA </span>  &nbsp;	July 2013 – June 2016
 </div>
 <div class="job-details">
-&#8226;Responsible for the day-day program implementation of the Flexible Housing Subsidy Pool program
+&#8226; Responsible for the day-day program implementation of the Flexible Housing Subsidy Pool program
 <br>
-&#8226;Managed cases with LA Department of Health Services to ensure that 300+ tenants were successfully housed and retained their housing overtime
+&#8226; Managed cases with LA Department of Health Services to ensure that 300+ tenants were successfully housed and retained their housing overtime
 <br>
-&#8226;Primary liaison between LA Department Health Services and internal team
+&#8226; Primary liaison between LA Department Health Services and internal team
 <br>
-&#8226;Managed 7 housing coordinators; provided training, support with processes, and monitored team morale
+&#8226; Managed 7 housing coordinators; provided training, support with processes, and monitored team morale
 
 </div>
 
