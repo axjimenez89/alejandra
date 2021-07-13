@@ -10,4 +10,4 @@ end
 gem 'public_suffix','3.0.3'
 
 gem 'rspec-core', '~> 3.8', '>= 3.8.2'
-gem 'addressable', '~> 2.5', '>= 2.5.2'
+gem 'addressable', '~> 2.8'
