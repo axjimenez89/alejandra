@@ -1,7 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.2)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
     concurrent-ruby (1.0.5)
     em-websocket (0.5.1)
@@ -61,7 +62,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  addressable (~> 2.5, >= 2.5.2)
+  addressable (~> 2.8)
   jekyll (= 3.8.4)
   jekyll-paginate
   jekyll-sitemap
